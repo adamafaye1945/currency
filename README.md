@@ -1,1 +1,1 @@
-# quick currency converter made with react. help understand the useEffect hook. used the hook to fetch a currency converter API.
+A quick currency converter made with react. it helped me understand better the useEffect hook. Used the hook to fetch a currency converter API to convert amount of money to multiple different currency
